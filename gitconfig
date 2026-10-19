@@ -60,3 +60,7 @@
 
 [init]
   defaultBranch = master
+
+[user]
+  name = Basti
+  email = 233381911+bastidotnet@users.noreply.github.com
